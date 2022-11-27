@@ -1,0 +1,15 @@
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\bin\Debug\net6.0\ASNQPH_Feleves.exe
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\bin\Debug\net6.0\ASNQPH_Feleves.deps.json
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\bin\Debug\net6.0\ASNQPH_Feleves.runtimeconfig.json
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\bin\Debug\net6.0\ASNQPH_Feleves.dll
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\bin\Debug\net6.0\ASNQPH_Feleves.pdb
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ASNQPH_Feleves.csproj.AssemblyReference.cache
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ASNQPH_Feleves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ASNQPH_Feleves.AssemblyInfoInputs.cache
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ASNQPH_Feleves.AssemblyInfo.cs
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ASNQPH_Feleves.csproj.CoreCompileInputs.cache
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ASNQPH_Feleves.dll
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\refint\ASNQPH_Feleves.dll
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ASNQPH_Feleves.pdb
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ASNQPH_Feleves.genruntimeconfig.cache
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\ConsoleApp1\ASNQPH_Feleves\obj\Debug\net6.0\ref\ASNQPH_Feleves.dll
