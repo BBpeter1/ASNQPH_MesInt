@@ -1,0 +1,15 @@
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\bin\Debug\net6.0\ASNQPH_Extra.exe
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\bin\Debug\net6.0\ASNQPH_Extra.deps.json
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\bin\Debug\net6.0\ASNQPH_Extra.runtimeconfig.json
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\bin\Debug\net6.0\ASNQPH_Extra.dll
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\bin\Debug\net6.0\ASNQPH_Extra.pdb
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ASNQPH_Extra.csproj.AssemblyReference.cache
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ASNQPH_Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ASNQPH_Extra.AssemblyInfoInputs.cache
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ASNQPH_Extra.AssemblyInfo.cs
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ASNQPH_Extra.csproj.CoreCompileInputs.cache
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ASNQPH_Extra.dll
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\refint\ASNQPH_Extra.dll
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ASNQPH_Extra.pdb
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ASNQPH_Extra.genruntimeconfig.cache
+C:\Users\Bartók-Balog Péter\Documents\MesterségesIntelligencia\Extra feladat-nehéz\ASNQPH_Extra\obj\Debug\net6.0\ref\ASNQPH_Extra.dll
